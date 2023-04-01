@@ -6,13 +6,17 @@ ___
 ## Contents
 
 * ### Variables and Data Types
-  * What is a variable in JavaScript?
-  * How do you declare a variable in JavaScript?
-  * What are the different data types in JavaScript?
-  * What is dynamic typing in JavaScript?
-  * How does type coercion work in JavaScript?
-  * What is the difference between null and undefined in JavaScript?
-  * How do you convert a string to a number in JavaScript?
-  * How do you check the type of a variable in JavaScript?
-  * What is the difference between let, var, and const in JavaScript?
-  * How do you create and manipulate arrays and objects in JavaScript?
+  * 1. What is a variable in JavaScript?
+  * 2. How do you declare a variable in JavaScript?
+  * 3. What are the different data types in JavaScript?
+  * 4. What is dynamic typing in JavaScript?
+  * 5. How does type coercion work in JavaScript?
+  * 6. What is the difference between null and undefined in JavaScript?
+  * 7. How do you convert a string to a number in JavaScript?
+  * 8. How do you check the type of a variable in JavaScript?
+  * 9. What is the difference between let, var, and const in JavaScript?
+  * 10. How do you create and manipulate arrays and objects in JavaScript?
+___
+
+* ### Operators and Expressions
+ *
