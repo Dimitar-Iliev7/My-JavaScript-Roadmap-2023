@@ -19,4 +19,16 @@ ___
 ___
 
 * ### Operators and Expressions
- *
+  * What are operators in JavaScript?
+  * What are the different types of operators in JavaScript?
+  * How do you perform arithmetic operations in JavaScript?
+  * How do you use comparison operators in JavaScript?
+  * What are logical operators in JavaScript?
+  * How do you perform bitwise operations in JavaScript?
+  * What is the ternary operator in JavaScript?
+  * What is operator precedence in JavaScript?
+  * How do you use parentheses to control operator precedence in JavaScript?
+  * What are expressions in JavaScript?
+  ___
+  
+  
