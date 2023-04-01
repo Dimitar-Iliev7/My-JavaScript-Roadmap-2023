@@ -33,7 +33,7 @@ ___
       
       // Control structures
       if (age >= 18) {
-        console.log(`${name} is and adult`
+        console.log(`${name} is and adult`)
       } else {
          console.log(`${name} is a minor`)
       }
