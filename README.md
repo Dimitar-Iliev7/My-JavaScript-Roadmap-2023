@@ -63,3 +63,18 @@ ___
       }
       
 ```
+___
+
+## Front-End Development
+JavaScript is widely used in front-end development to create dynamic and interactive web pages. Some important front-end frameworks and libraries include:
+* React
+* Vue.js
+* Angular
+* jQuery
+___
+## Back-End Development
+JavaScript can also be used for back-end development using Node.js. Some popular Node.js frameworks and libraries include:
+* Express
+* Koa
+* Nest.js
+* Socket.io
